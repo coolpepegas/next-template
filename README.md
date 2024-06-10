@@ -4,6 +4,7 @@ An opinionated Next.js project template with eslint, prettier, tailwindcss, next
 Core packages:
 - [next](https://nextjs.org/)
 - [react](https://react.dev/)
+- [react-query](https://github.com/TanStack/query)
 - [tailwindcss](https://tailwindcss.com/)
 - [next-themes](https://github.com/pacocoursey/next-themes)
 - [@radix-ui/*](https://www.radix-ui.com/primitives)
