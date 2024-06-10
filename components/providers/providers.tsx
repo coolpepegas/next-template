@@ -1,3 +1,5 @@
+"use client";
+
 import ReactQueryProvider from "./react-query-provider";
 import { ThemeProvider } from "./theme-provider";
 
