@@ -1,6 +1,11 @@
 # Next.js project template
 An opinionated Next.js project template with eslint, prettier, tailwindcss, next-themes, shadcn/ui and some utility plugins and hooks.
 
+## Usage
+```
+npx create-next-app -e https://github.com/coolpepegas/next-template
+```
+
 Core packages:
 - [next](https://nextjs.org/)
 - [react](https://react.dev/)
