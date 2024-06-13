@@ -8,6 +8,7 @@ import { siteConfig } from "@/config/site";
 import { cn } from "@/lib/utils";
 import Header from "@/components/header";
 import { Providers } from "@/components/providers/providers";
+import TailwindIndicator from "@/components/tailwind-indicator";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -30,6 +31,7 @@ export default function RootLayout({
         <Providers>
           <Header />
           <main className="container my-4 max-w-screen-2xl">{children}</main>
+          <TailwindIndicator />
         </Providers>
       </body>
     </html>
